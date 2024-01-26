@@ -6,7 +6,7 @@
 
 ```py
 '''
-    Week #3. Task #4:
+    Week #3. Task #3:
     In your company, an active marketing campaign is being conducted through SMS 
     distributions. To do this, you collect customer phone numbers from the database, 
     but often encounter the issue that the numbers are recorded in various formats. 
